@@ -1,6 +1,5 @@
 [![donate button](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat)](https://github.com/haxpor/donate)
 
-[![Build Status](https://travis-ci.org/haxpor/Potatso.svg?branch=master)](https://travis-ci.org/haxpor/Potatso)
 ![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 # Potatso 
@@ -31,7 +30,7 @@ Swift 4 Maintainer: [@haxpor](https://twitter.com/haxpor)
 
 Potatso has in total 26 dependencies as following
 
-* 22 Cocoapod dependencies
+* 20 Cocoapod dependencies
 * 4 submodules dependencies via local cocoapod
 
 The project is tested with Xcode `9.4 (9F1027a)` on iOS `11.4 (15F79)` device with cocoapod version `1.4.0`+.  
@@ -62,7 +61,7 @@ We use the following services or open-source libraries. So we'd like show them h
 
 ### Services
 
-- [Fabric](https://get.fabric.io/)
+- [Fabric](https://get.fabric.io/) -- currently not use anymore
 - [Reveal](http://revealapp.com/)
 - [realm](https://realm.io/)
 
